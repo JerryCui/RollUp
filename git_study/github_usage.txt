@@ -1,0 +1,4 @@
+1.git add 
+2.git commit -m "comment"
+3.git remote add origin git@github.com:JerryCui/RollUp.git
+4.git push -u origin master
